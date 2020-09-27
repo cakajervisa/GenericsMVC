@@ -1,0 +1,7 @@
+C:\Users\lleka\source\repos\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe.config
+C:\Users\lleka\source\repos\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe
+C:\Users\lleka\source\repos\GenericsExample\GenericsExample\bin\Debug\GenericsExample.pdb
+C:\Users\lleka\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.csprojAssemblyReference.cache
+C:\Users\lleka\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.csproj.CoreCompileInputs.cache
+C:\Users\lleka\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.exe
+C:\Users\lleka\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.pdb
